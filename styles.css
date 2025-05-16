@@ -126,7 +126,7 @@ header {
 /* -----------holiday-text ------------*/
 
 .holiday-section {
-    
+
 }
 
 .holiday-text {
@@ -143,4 +143,32 @@ header {
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100%;
+}
+.item-portfolio{
+    margin-top: 100px;
+    padding: 50px;
+}
+.portfolio-text{
+    text-align: center;
+}
+.portfolio-img{
+    margin: 100px;
+}
+.subscribe-section{
+    text-align: center;
+    background-color: white;
+    padding: 100px;
+    margin: 50px;
+    border-radius: 50px;
+}
+.subscribe-btn{
+    padding: 20px;
+    margin: 0;
+    border-radius: 10px;
+    border: 0;
+    background-color: dodgerblue;
+}
+.subscribe-input{
+    padding: 20px 100px 20px 20px;
+    border-radius: 10px;
 }
