@@ -3,7 +3,6 @@ body {
     background-color: antiquewhite;
     width: 1600px;
     height: 7335px;
-    border: black 5px solid;
     margin: 100px;
     /* padding: 250px; */
 }
@@ -171,4 +170,32 @@ header {
 .subscribe-input{
     padding: 20px 100px 20px 20px;
     border-radius: 10px;
+}
+/*------------- Footer--------- */
+footer{
+    width: 100%;
+}
+.footer-section{
+background-color: black;
+padding: 20px 100px;
+}
+.footer-text{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.contect-list{
+
+}
+.social-icon{
+   margin-top: 40px;
+    justify-content:end;
+    display: flex;
+}
+.reserved-text{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
 }
